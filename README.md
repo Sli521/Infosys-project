@@ -1,4 +1,4 @@
-# SmartScribe - Proof of Concept
+# SmartScribe
 
 This repository contains the web application for **SmartScribe**, a neural speaker diarization system. Below is the directory structure and instructions for running both the frontend and backend.
 
