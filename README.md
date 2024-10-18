@@ -1,6 +1,6 @@
 # SmartScribe - Proof of Concept
 
-This repository contains the proof of concept for **SmartScribe**, a neural speaker diarization system. Below is the directory structure and instructions for running both the frontend and backend.
+This repository contains the web application for **SmartScribe**, a neural speaker diarization system. Below is the directory structure and instructions for running both the frontend and backend.
 
 ## Folder and File Structure
 
@@ -53,20 +53,15 @@ This repository contains the proof of concept for **SmartScribe**, a neural spea
 
 ## Authors
 
-- Steven Li
 - Adi Shenoy
-
-
-## Acknowledgements
-
-We would like to acknowledge our research supervisor: 
- - [Dr Satwinder Singh](https://profiles.auckland.ac.nz/satwinder-singh)
-
-
+- Jason Yang
+- Jeremy Ting
+- Matthew Wai
+- Steven Li
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file, which you can find by asking Dr Satwinder Singh. 
+To run this project, you will need to add the following environment variables to your .env file, which you can find by asking Adi Shenoy.
 
 `OPENAI_API_KEY`
 
